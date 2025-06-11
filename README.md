@@ -1,4 +1,4 @@
-# Online-Mobile-Store
-1. A mobile shop application developed using PHP and MySql Databse.
-2. The PHP code was executed with Xampp server.
-3. HTML, CSS and Bootstrap were used for the front-end.
+# Built a LAMP Full Stack Application - an online Mobile Shop.
+• Developed backend using PHP and MySQL Database. 
+• The PHP code was executed with XAMPP server and Apache. 
+• HTML, CSS and Bootstrap were used for the front-end.
